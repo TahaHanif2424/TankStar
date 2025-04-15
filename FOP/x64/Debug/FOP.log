@@ -1,0 +1,17 @@
+﻿  FileName.cpp
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(515,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(516,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(518,50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(518,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(518,61): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(518,61): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(524,51): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(524,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(524,62): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(524,62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(533,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(538,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\FOP\FOP\FileName.cpp(541,68): warning C4305: 'argument': truncation from 'double' to 'float'
+  FOP.vcxproj -> C:\Users\Admin\source\repos\FOP\x64\Debug\FOP.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

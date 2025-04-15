@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\mountain.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\wall.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Tank_Star.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\option.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Instruction.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\about.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\arrow2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\arrow1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="missile2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="missile1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="lefttank.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="righttank.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\aim.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\background.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\fighting2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\information2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\information1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\tank1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="multiplayer1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="multiplayer2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="about2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="about1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\singleplayer2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\singleplayer1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\..\Downloads\interface-124464-[AudioTrimmer.com].mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\Downloads\explosion-42132-[AudioTrimmer.com].mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\Downloads\hq-explosion-6288.mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+    <Media Include="WhatsApp Audio 2024-01-07 at 5.00.46 AM.mp3">
+      <Filter>Source Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
